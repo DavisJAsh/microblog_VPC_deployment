@@ -1,3 +1,7 @@
 auto_push.sh
 /.secrets
 github_token
+venv/
+.python-version
+.pytest_cache
+__pycache__
